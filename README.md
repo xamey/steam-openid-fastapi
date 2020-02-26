@@ -45,3 +45,7 @@ run the following commands in a terminal from the root directory of your project
 Once you installed all the dependencies, you can :
 - run the API with uvicorn, by typing ```uvicorn main:app```
 - run the API with your favorite ASGI server
+
+### Contributors
+
+Thanks to TeddiO, as I reused it source code from this project : https://github.com/TeddiO/pySteamSignIn
